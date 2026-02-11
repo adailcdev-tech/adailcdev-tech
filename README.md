@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adail-cipriano/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Adail Cipriano"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adail.dev.contato@gmail.com" target="_blank"> <!-- Troque pelo seu email real -->
+  <a href="mailto:adail.dev.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5531SEUNUMERO&text=Oi%20Adail%2C%20vi%20seu%20GitHub..." target="_blank"> <!-- Coloque seu número com DDD -->
+  <a href="https://api.whatsapp.com/send?phone=5531SEUNUMEROAQUI&text=Oi%20Adail%2C%20vi%20seu%20GitHub%20e%20gostei%20dos%20projetos!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
@@ -25,46 +25,47 @@
 ---
 
 ### Sobre mim
-- **Cargo atual**: Desenvolvedor Full-Stack Júnior (foco em aprendizado constante)
-- **Tecnologias que uso no dia a dia**:
-  - Frontend: React.js, JavaScript, TypeScript, HTML5, CSS3
-  - Backend: Node.js, REST API
+- **Foco atual**: Full-Stack Júnior com ênfase em React, Node.js e APIs REST
+- **Tecnologias principais**:
+  - Frontend: React (Vite), JavaScript, TypeScript (em aprendizado), Tailwind CSS, HTML5, CSS3
+  - Backend: Node.js, Express, JWT autenticação
   - Banco de dados: MySQL
-  - Ferramentas: Git, GitHub
-- **Disponibilidade**: Estágio ou Júnior em Web Development – **6 horas/dia** | Remoto (preferencial) ou Presencial em **Belo Horizonte - MG**
-- Buscando primeira oportunidade formal para aplicar e evoluir em projetos reais!
+  - Mobile: React Native (básico, com Expo)
+  - Ferramentas: Git/GitHub, Zustand, Chart.js
+- **Disponibilidade**: Estágio ou vaga júnior em Web/Full-Stack – **6 horas/dia** | **Remoto** (prioridade) ou presencial em **Belo Horizonte - MG**
+- Estou em busca da primeira experiência profissional para crescer em equipe e projetos reais!
 
-### Projetos em destaque (fixe esses no topo do perfil!)
-Aqui estão alguns dos meus trabalhos mais recentes e organizados:
+### Projetos em destaque (fixe esses no topo!)
+Esses são meus trabalhos mais completos e maduros:
 
-| Projeto              | Descrição curta                                      | Tecnologias principais          | Link Repo                                      |
-|----------------------|------------------------------------------------------|---------------------------------|------------------------------------------------|
-| **clinicamed**       | Sistema de gerenciamento/clínica (CRUD + interface) | JavaScript, HTML, CSS           | [→ Ver repositório](https://github.com/adailcdev-tech/clinicamed) |
-| **Product-Catalog**  | Catálogo de produtos com listagem e filtros         | JavaScript, React (provável)    | [→ Ver repositório](https://github.com/adailcdev-tech/Product-Catalog) |
-| **listagem-de-produtos** | Listagem dinâmica de produtos com busca            | JavaScript, HTML, CSS           | [→ Ver repositório](https://github.com/adailcdev-tech/listagem-de-produtos) |
-| **listagem-de-alunos** | Gerenciamento simples de alunos (tabela + CRUD)    | JavaScript, HTML                | [→ Ver repositório](https://github.com/adailcdev-tech/listagem-de-alunos) |
+| Projeto              | Descrição curta                                                                 | Tecnologias principais                          | Link Repo / Deploy                                      |
+|----------------------|---------------------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------|
+| **clinicamed**       | Sistema de gestão médica full-stack: login JWT seguro, dashboard com gráficos (Chart.js), tabela de pacientes (futuro CRUD completo) | React + Vite + Tailwind + Zustand, Node/Express/JWT, MySQL | [→ Repositório](https://github.com/adailcdev-tech/clinicamed) |
+| **Product-Catalog**  | Catálogo de produtos full-stack + mobile: listagem paginada, busca, detalhes, scroll infinito, consumo de API real externa | React (web), React Native (mobile), JavaScript   | [→ Repositório](https://github.com/adailcdev-tech/Product-Catalog) <br> **Deploy Web:** https://product-catalog-7enn.vercel.app/ |
+| **listagem-de-produtos** | Listagem dinâmica de produtos com filtros e busca                             | JavaScript, HTML, CSS                            | [→ Repositório](https://github.com/adailcdev-tech/listagem-de-produtos) |
+| **listagem-de-alunos** | CRUD simples de alunos em tabela interativa                                   | JavaScript, HTML                                 | [→ Repositório](https://github.com/adailcdev-tech/listagem-de-alunos) |
 
-**Próximos passos que estou construindo (2026):**
-- Dashboard admin com React + Node.js + MySQL
-- API REST completa com autenticação JWT
-- Projeto full-stack com TypeScript + Next.js
-- Integração com pagamentos (Pix via API)
+**O que estou construindo agora (2026):**
+- Dashboard admin completo (React + Node + MySQL + autenticação)
+- API REST com JWT e validações
+- Projeto full-stack em TypeScript + Next.js
+- Integração Pix/ pagamentos reais
 
-### Tecnologias que domino e estou estudando
+### Tecnologias que uso e estudo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mysql,git,github,vscode" alt="Tecnologias Adail"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mysql,git,github,vscode,tailwind" alt="Tecnologias"/>
 </p>
 
-- Já uso diariamente: JavaScript, React, Node.js, Git
-- Estudando e aplicando: TypeScript, Next.js, Tailwind CSS, Prisma
+- Uso diário: JavaScript, React, Node.js, Git
+- Em evolução: TypeScript, Next.js, Tailwind CSS, Prisma, React Native
 
 ### Vamos conversar?
 
-Estou aberto a:
+Aberto a:
 - Estágios em desenvolvimento web/full-stack
-- Oportunidades júnior remoto ou em BH
-- Mentorias / code reviews / projetos em grupo
+- Vagas júnior (remoto ou BH)
+- Mentorias, code reviews ou colaborações
 
 Manda mensagem no **LinkedIn**[](https://www.linkedin.com/in/adail-cipriano/) ou WhatsApp!  
 Respondo rápido 😄
