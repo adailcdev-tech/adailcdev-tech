@@ -32,7 +32,7 @@
   - Banco de dados: MySQL
   - Mobile: React Native (básico, com Expo)
   - Ferramentas: Git/GitHub, Zustand, Chart.js
-- **Disponibilidade**: Estágio ou vaga júnior em Web/Full-Stack – **6 horas/dia** | **Remoto** (prioridade) ou presencial em **Belo Horizonte - MG**
+- **Disponibilidade**: Estágio ou vaga júnior em Web/Full-Stack –  | **Remoto**  ou presencial em **Belo Horizonte - MG**
 - Estou em busca da primeira experiência profissional para crescer em equipe e projetos reais!
 
 ### Projetos em destaque (fixe esses no topo!)
