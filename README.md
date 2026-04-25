@@ -2,7 +2,7 @@
   <img src="https://github.com/adailcdev-tech.png" width="180" height="180" alt="Adail-dev"/>
   <br><br>
   <h1>Olá! Eu sou o Adail 👋</h1>
-  <h3>Desenvolvedor Full-Stack Júnior | Belo Horizonte - MG</h3>
+  <h3>Desenvolvedor Júnior | Belo Horizonte - MG</h3>
 </p>
 
 <p align="center">
