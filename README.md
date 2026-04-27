@@ -17,8 +17,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adailcdev-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<p 
+  align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailcdev-tech&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
