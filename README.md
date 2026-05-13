@@ -2,7 +2,7 @@
   <img src="https://github.com/adailcdev-tech.png" width="180" height="180" alt="Adail-dev"/>
   <br><br>
   <h1>Olá! Eu sou o Adail 👋</h1>
-  <h3>Desenvolvedor Júnior Full-Stack & Mobile | Belo Horizonte - MG</h3>
+  <h3>Desenvolvedor Júnior Full-Stack | Belo Horizonte - MG</h3>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ### Sobre mim
 - **Foco atual**: Desenvolvedor Júnior Full-Stack com ênfase em **React, React Native e TypeScript**
 - **Localização**: Belo Horizonte - MG
-- **Disponibilidade**: Estágio ou vaga Júnior (Web ou Mobile) — Remoto ou Presencial em BH
+- **Disponibilidade**: Vaga Júnior (Web ou Mobile) — Remoto ou Presencial em BH
 
 Estou em busca da **primeira oportunidade profissional** para aplicar meus conhecimentos em projetos reais e continuar evoluindo!
 
@@ -72,7 +72,7 @@ Estou em busca da **primeira oportunidade profissional** para aplicar meus conhe
 
 **Aberto a oportunidades!**
 
-- Estágio em Desenvolvimento Web ou Mobile
+- Vaga Júnior em Desenvolvimento Web ou Mobile
 - Vaga Júnior Full-Stack / Frontend / React Native
 - Projetos freelance ou colaborações
 
