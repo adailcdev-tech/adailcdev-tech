@@ -2,7 +2,7 @@
   <img src="https://github.com/adailcdev-tech.png" width="180" height="180" alt="Adail-dev"/>
   <br><br>
   <h1>Olá! Eu sou o Adail 👋</h1>
-  <h3>Desenvolvedor Júnior | Belo Horizonte - MG</h3>
+  <h3>Desenvolvedor Júnior Full-Stack & Mobile | Belo Horizonte - MG</h3>
 </p>
 
 <p align="center">
@@ -12,66 +12,73 @@
   <a href="mailto:adail.dev.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5531SEUNUMEROAQUI&text=Oi%20Adail%2C%20vi%20seu%20GitHub%20e%20gostei%20dos%20projetos!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5531SEUNUMERO&text=Oi%20Adail%2C%20vi%20seu%20GitHub!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-<p 
-  align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailcdev-tech&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailcdev-tech&layout=compact&theme=dracula&langs_count=10" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ### Sobre mim
-- **Foco atual**: Full-Stack Júnior com ênfase em React, Node.js e APIs REST
-- **Tecnologias principais**:
-  - Frontend: React (Vite), JavaScript, TypeScript (em aprendizado), Tailwind CSS, HTML5, CSS3
-  - Backend: Node.js, Express, JWT autenticação
-  - Banco de dados: MySQL
-  - Mobile: React Native (básico, com Expo)
-  - Ferramentas: Git/GitHub, Zustand, Chart.js
-- **Disponibilidade**: Estágio ou vaga júnior em Web/Full-Stack –  | **Remoto**  ou presencial em **Belo Horizonte - MG**
-- Estou em busca da primeira experiência profissional para crescer em equipe e projetos reais!
+- **Foco atual**: Desenvolvedor Júnior Full-Stack com ênfase em **React, React Native e TypeScript**
+- **Localização**: Belo Horizonte - MG
+- **Disponibilidade**: Estágio ou vaga Júnior (Web ou Mobile) — Remoto ou Presencial em BH
 
-### Projetos em destaque (fixe esses no topo!)
-Esses são meus trabalhos mais completos e maduros:
+Estou em busca da **primeira oportunidade profissional** para aplicar meus conhecimentos em projetos reais e continuar evoluindo!
 
-| Projeto              | Descrição curta                                                                 | Tecnologias principais                          | Link Repo / Deploy                                      |
-|----------------------|---------------------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------|
-| **clinicamed**       | Sistema de gestão médica full-stack: login JWT seguro, dashboard com gráficos (Chart.js), tabela de pacientes (futuro CRUD completo) | React + Vite + Tailwind + Zustand, Node/Express/JWT, MySQL | [→ Repositório](https://github.com/adailcdev-tech/clinicamed) |
-| **Product-Catalog**  | Catálogo de produtos full-stack + mobile: listagem paginada, busca, detalhes, scroll infinito, consumo de API real externa | React (web), React Native (mobile), JavaScript   | [→ Repositório](https://github.com/adailcdev-tech/Product-Catalog) <br> **Deploy Web:** https://product-catalog-7enn.vercel.app/ |
-| **listagem-de-produtos** | Listagem dinâmica de produtos com filtros e busca                             | JavaScript, HTML, CSS                            | [→ Repositório](https://github.com/adailcdev-tech/listagem-de-produtos) |
-| **listagem-de-alunos** | CRUD simples de alunos em tabela interativa                                   | JavaScript, HTML                                 | [→ Repositório](https://github.com/adailcdev-tech/listagem-de-alunos) |
+### Projetos em Destaque
 
-**O que estou construindo agora (2026):**
-- Dashboard admin completo (React + Node + MySQL + autenticação)
-- API REST com JWT e validações
-- Projeto full-stack em TypeScript + Next.js
-- Integração Pix/ pagamentos reais
+| Projeto | Descrição | Tecnologias Principais | Link |
+|--------|-----------|------------------------|------|
+| **🍔 appHamburgueria** | Aplicativo mobile completo de delivery para hamburgueria (cardápio, carrinho, busca) | **React Native + Expo + TypeScript** | [→ Repositório](https://github.com/adailcdev-tech/appHamburgueria) |
+| **🏦 appBanco** | App mobile com conexão ao banco de dados local | **React Native + Expo + TypeScript + SQLite** | [→ Repositório](https://github.com/adailcdev-tech/appBanco) |
+| **clinicamed** | Sistema completo de gestão médica com dashboard | React + Vite + Tailwind + Node.js + MySQL + JWT | [→ Repositório](https://github.com/adailcdev-tech/clinicamed) |
+| **Product-Catalog** | Catálogo de produtos (Web + Mobile) com API externa | React + React Native + JavaScript | [→ Repositório](https://github.com/adailcdev-tech/Product-Catalog) |
 
 ### Tecnologias que uso e estudo
 
+**Frontend:**
+- React, React Native (Expo), TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+
+**Mobile:**
+- React Native + Expo, SQLite
+
+**Backend:**
+- Node.js, Express.js, JWT (Autenticação)
+
+**Banco de Dados:**
+- MySQL, SQLite
+
+**Ferramentas:**
+- Git/GitHub, VS Code, Vercel
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mysql,git,github,vscode,tailwind" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,tailwind,nodejs,express,mysql,sqlite,git,github,expo" alt="Tecnologias"/>
 </p>
 
-- Uso diário: JavaScript, React, Node.js, Git
-- Em evolução: TypeScript, Next.js, Tailwind CSS, Prisma, React Native
-
-### Vamos conversar?
-
-Aberto a:
-- Estágios em desenvolvimento web/full-stack
-- Vagas júnior (remoto ou BH)
-- Mentorias, code reviews ou colaborações
-
-Manda mensagem no **LinkedIn**[](https://www.linkedin.com/in/adail-cipriano/) ou WhatsApp!  
-Respondo rápido 😄
+### O que estou aprendendo atualmente (2026)
+- TypeScript avançado
+- Arquitetura de apps mobile com Expo
+- Integração de banco de dados local (SQLite)
+- Next.js
+- Prisma ORM
+- Melhoria contínua em Clean Code e componentização
 
 ---
 
-Última atualização: Fevereiro 2026  
-Feito com ❤️ em Belo Horizonte
+**Aberto a oportunidades!**
+
+- Estágio em Desenvolvimento Web ou Mobile
+- Vaga Júnior Full-Stack / Frontend / React Native
+- Projetos freelance ou colaborações
+
+Pode me chamar no **LinkedIn** ou WhatsApp! Respondo rapidamente 😄
+
+---
+
+**Última atualização:** Maio 2026  
+Feito com ❤️ em Belo Horizonte - MG
